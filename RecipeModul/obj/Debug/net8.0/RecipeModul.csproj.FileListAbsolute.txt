@@ -1,0 +1,11 @@
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\bin\Debug\net8.0\RecipeModul.deps.json
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\bin\Debug\net8.0\RecipeModul.dll
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\bin\Debug\net8.0\RecipeModul.pdb
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.AssemblyInfoInputs.cache
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.AssemblyInfo.cs
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.csproj.CoreCompileInputs.cache
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.dll
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\refint\RecipeModul.dll
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\RecipeModul.pdb
+C:\Users\9ksen\source\repos\TestMDK\RecipeModul\obj\Debug\net8.0\ref\RecipeModul.dll
